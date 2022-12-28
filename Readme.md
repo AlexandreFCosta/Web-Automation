@@ -16,7 +16,7 @@
         Selenium - https://www.selenium.dev/pt-br/documentation/
     </ol>
    <br><li>
-        Esse programa utiliza o ChromeDrive para abrir o navegador, baixe ele pelo seguinte link: <br><br>
+        Esse programa utiliza o ChromeDrive para abrir o navegador: <br><br>
     </li>
     <ol>
         ChromeDriver -https://chromedriver.chromium.org/downloads
