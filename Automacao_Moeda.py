@@ -24,7 +24,7 @@ def find_dolar():
     dolar = round(dolar,2)    
 
     #Mostrar o valor
-    print(dolar)
+    print("Preço atual do dolar: ", dolar)
 
     nav.quit()
 
