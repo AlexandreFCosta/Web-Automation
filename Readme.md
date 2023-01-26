@@ -48,7 +48,8 @@
    <hr size="1" width="100%">
     
     
-   Tecnologias usada:
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-    <img align="center" alt="CoinMarketCap" height="30" width="30" src="https://seeklogo.com/images/C/coinmarketcap-logo-064D167A0E-seeklogo.com.png">
+<div align="center" style"display: inline_block">
+    <img align="center" alt="Python" height="70" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Python-Dark.svg">
+    <img align="center" alt="Selenium" height="70" width="60" src="https://raw.githubusercontent.com/AlexandreFCosta/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Selenium.svg">
+    <img align="center" alt="CoinMarketCap" height="60" width="60" src="https://seeklogo.com/images/C/coinmarketcap-logo-064D167A0E-seeklogo.com.png">
+</div>
